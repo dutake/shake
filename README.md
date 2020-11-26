@@ -1,2 +1,2 @@
-# neko
-Just a powercord command which gets a neko from an api and then sends it
+# shake
+it shakes your screen, thats about it
